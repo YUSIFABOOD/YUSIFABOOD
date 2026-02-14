@@ -1,4 +1,4 @@
-
+<center>
   <!-- Typing SVG with Light Yellow Color (#FFE55C) - Intro Only -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=FFE55C&center=true&vCenter=true&width=600&height=50&lines=Hello+there,+I+am+Yousef+Abood" alt="Typing Bio" />
