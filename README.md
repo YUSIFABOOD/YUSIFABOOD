@@ -1,4 +1,6 @@
-<center>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=250&section=header&text=Yousef%20Abood&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Computer%20Engineering%20Student%20%26%20Developer&descAlignY=60&descAlign=50" width="100%" alt="Header" />
+
   <!-- Typing SVG with Light Yellow Color (#FFE55C) - Intro Only -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=FFE55C&center=true&vCenter=true&width=600&height=50&lines=Hello+there,+I+am+Yousef+Abood" alt="Typing Bio" />
