@@ -1,11 +1,10 @@
 <div align="center">
 
-
   <!-- Typing SVG with Light Yellow Color (#FFE55C) - Intro Only -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=FFE55C&center=true&vCenter=true&width=600&height=50&lines=Hello+there,+I+am+Yousef+Abood" alt="Typing Bio" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=FFE55C&center=true&vCenter=true&width=600&height=50&lines=Hello+there,+I+am+Yousef+Abood&repeat=false" alt="Typing Bio" />
   </a>
-
+  
   <!-- Rest of the bio as static text -->
   <p align="center">
     I am a Computer Engineering sophomore at the American University in Cairo with a deep interest in Technology, Mathematics, and Photography. Alongside my studies, I work as a freelance writer. In my free time, I enjoy watching anime and playing Hollow Knight. In case if you're interested, my favourite anime shows are HxH, FMAB, and Bleach.
