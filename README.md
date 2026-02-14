@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,30&height=250&section=header&text=Yousef%20Abood&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Computer%20Engineering%20Student%20%26%20Developer&descAlignY=60&descAlign=50" width="100%" alt="Header" />
 
   <!-- Typing SVG with Light Yellow Color (#FFE55C) - Intro Only -->
   <a href="https://git.io/typing-svg">
@@ -15,10 +13,10 @@
 
   <!-- Social Media Links -->
   <div align="center">
-    <a href="https://www.linkedin.com/in/your-profile-id" target="_blank" style="margin-right: 10px;">
+    <a href="https://www.linkedin.com/in/yousefabood" target="_blank" style="margin-right: 10px;">
       <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
     </a>
-    <a href="https://www.instagram.com/your-instagram-id" target="_blank">
+    <a href="https://www.instagram.com/yusif_abood" target="_blank">
       <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
     </a>
   </div>
