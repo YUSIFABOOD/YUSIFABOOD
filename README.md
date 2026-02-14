@@ -1,4 +1,3 @@
-
   <!-- Typing SVG with Light Yellow Color (#FFE55C) - Intro Only -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=700&size=24&duration=3500&pause=1000&color=FFE55C&vCenter=true&width=600&height=50&lines=Hello+there,+I+am+Yousef+Abood&repeat=false" alt="Typing Bio" />
@@ -23,9 +22,8 @@
 
   <br/>
 
-  <!-- Animated Header: Languages and Developer skills -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=700&size=24&duration=3500&pause=1000&color=FFE55C&vCenter=true&width=600&height=50&lines=Languages+and+Developer+skills&repeat=false" alt="Languages and Developer skills" />
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=700&size=24&duration=3500&pause=1000&color=FFE55C&vCenter=true&width=600&height=50&lines=Languages+and+Developer+Skills&repeat=false" alt="Typing Bio" />
   </a>
 
   <div>
@@ -36,9 +34,8 @@
 
   <br/>
 
-  <!-- Animated Header: Operating systems -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=700&size=24&duration=3500&pause=1000&color=FFE55C&vCenter=true&width=600&height=50&lines=Operating+systems&repeat=false" alt="Operating systems" />
+    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=700&size=24&duration=3500&pause=1000&color=FFE55C&vCenter=true&width=600&height=50&lines=Operating+Systems&repeat=false" alt="Typing Bio" />
   </a>
 
   <div>
@@ -49,9 +46,8 @@
 
   <br/>
 
-  <!-- Animated Header: GitHub Statistics -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=700&size=24&duration=3500&pause=1000&color=FFE55C&vCenter=true&width=600&height=50&lines=GitHub+Statistics&repeat=false" alt="GitHub Statistics" />
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=700&size=24&duration=3500&pause=1000&color=FFE55C&vCenter=true&width=600&height=50&lines=GitHub+Statistics&repeat=false" alt="Typing Bio" />
   </a>
 
   <!-- Stats, Streak, and Top Langs -->
