@@ -15,14 +15,12 @@
 ---
 
 ### 🌟 About Me
+
 I am Yousef Abood, a Computer Engineering sophomore at the American University in Cairo with a deep interest in Technology, Mathematics, and Photography. Alongside my studies, I work as a freelance writer. In my free time, I enjoy watching anime and playing Hollow Knight. In case if you're interested, my favourite anime shows are HxH, FMAB , and Bleach.
 ---
 
 ### 📊 My Coding Universe
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YUSIFABOOD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170px" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YUSIFABOOD&layout=compact&theme=tokyonight&hide_border=true" height="170px" alt="Languages" />
-</div>
+
 
 <br/>
 
